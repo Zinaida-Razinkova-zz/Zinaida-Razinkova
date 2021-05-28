@@ -1,4 +1,4 @@
-### Hi there, I'm Zinaida, Frontend Developer. 👩🏼‍💻
+### Hi, I'm Zinaida, Frontend Developer. 👩🏼‍💻
 - 📫 How to reach me: razinkova.zina@gmail.com
 - 🌱 In my profile you can get acquainted with my projects.
 
