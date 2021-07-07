@@ -1,7 +1,7 @@
 ### Hi, I'm Zinaida, Frontend Developer. 👩🏼‍💻
 - 📫 How to reach me: razinkova.zina@gmail.com
 - 🌱 In my profile you can get acquainted with my projects.
-- 📝 <a src="https://drive.google.com/file/d/1oWOAcR2_zvCWKZ3vzaKryP9_hJxutZcO/view?usp=sharing">My resume</a>
+- 📝 My resume: https://drive.google.com/file/d/1oWOAcR2_zvCWKZ3vzaKryP9_hJxutZcO/view?usp=sharing
 ### My stack and tools
 
 <p align="left">
