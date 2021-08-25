@@ -1,4 +1,4 @@
-### Hi, I'm Zinaida, Frontend Developer. 👩🏼‍💻
+### Hi, I'm Zinaida, Trainee/junior front-end developer | React, JavaScript, HTML5, CSS3. 👩🏼‍💻
 - 📫 How to reach me: razinkova.zina@gmail.com
 - 🌱 In my profile you can get acquainted with my projects.
 - 📝 My resume: https://drive.google.com/file/d/1oWOAcR2_zvCWKZ3vzaKryP9_hJxutZcO/view?usp=sharing
