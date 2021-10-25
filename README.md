@@ -1,5 +1,5 @@
 ### Hi, I'm Zinaida, Trainee/junior front-end developer | React, JavaScript, HTML5, CSS3. 👩🏼‍💻
-- 📫 How to reach me: razinkova.zina@gmail.com
+- 📫 Contact with me: https://t.me/zinaida_razinkova
 - 🌱 In my profile you can get acquainted with my projects.
 ### My stack and tools
 
